@@ -1,2 +1,3 @@
 # simple calculator
- a simple calculator made to addition,subtraction,multiplication and division
+ a simple calculator made for addition,subtraction,multiplication and division using tkinter
+ 
